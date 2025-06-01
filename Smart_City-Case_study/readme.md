@@ -27,11 +27,27 @@
 
 ### 📁 3. Cấu trúc chính của project
 
-traffic_light_violation.py # Script chính
-hi2.mp4 # Video đầu vào
-yolov8n.pt # Model YOLOv8 COCO để detect ô tô
-best_traffic_nano_yolo.pt # Model detect đèn giao thông
-vi_pham/ # Tự động tạo để lưu ảnh vi phạm
+traffic_light_violation.py
+
+# Script chính
+
+hi2.mp4
+
+# Video đầu vào
+
+yolov8n.pt
+
+# Model YOLOv8 COCO để detect ô tô
+
+best_traffic_nano_yolo.pt
+
+# Model detect đèn giao thông
+
+vi_pham/
+
+# Tự động tạo để lưu ảnh vi phạm
+
+bao_cao_vi_pham.csv
 
 ### 📏 4. Vẽ vạch kiểm soát (line)
 
@@ -61,8 +77,7 @@ Nhấn s để xác nhận 2 điểm.
 Nhấn q để hủy bỏ và thoát.
 ```
 
-*Created by NTD*
+_Created by NTD_
 [![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
 [![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
-
